@@ -2,7 +2,4 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/bin/Debug/netstandard2.1/wwwroot/_framework/_bin
-/bin/Debug/netstandard2.1
-/obj
-/.vs/blazor-redux/v16
+/.vs/blazor-redux
