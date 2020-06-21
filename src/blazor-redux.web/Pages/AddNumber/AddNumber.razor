@@ -1,0 +1,13 @@
+﻿@page "/addnumber"
+@inherits Fluxor.Blazor.Web.Components.FluxorComponent
+
+<h3>Add Numbers</h3>
+
+<div>
+    <label for="fnum">First Num:</label>
+    <input type="number" id="fnum" name="fnum" @bind="FirstNumber" @bind:event="oninput" @onchange="NumberUpdated"><br><br>
+    <label for="snum">Second Num:</label>
+    <input type="number" id="snum" name="snum" @bind="SecondNumber" @bind:event="oninput" @onchange="NumberUpdated"><br><br>
+
+    <label>Answer : @AddNumberState.Value.Answer</label>
+</div>
