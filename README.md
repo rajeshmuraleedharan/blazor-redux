@@ -1,3 +1,5 @@
+![Azure Static Web Apps CI/CD](https://github.com/rajeshmuraleedharan/blazor-redux/workflows/Azure%20Static%20Web%20Apps%20CI/CD/badge.svg)
+
 # blazor-redux
 single state store approach to Blazor front-end app using Blazor-Fluxor library
 
