@@ -4,3 +4,4 @@
 
 /.vs/blazor-redux
 /src/blazor-redux.fluxor/obj
+/src/BlazorRedux.Dto/obj

@@ -1,8 +1,0 @@
-C:\Users\Rajesh.Muraleedharan\source\repos\blazor-redux\src\BlazorRedux.Dto\bin\Debug\netstandard2.0\BlazorRedux.Dto.deps.json
-C:\Users\Rajesh.Muraleedharan\source\repos\blazor-redux\src\BlazorRedux.Dto\bin\Debug\netstandard2.0\BlazorRedux.Dto.dll
-C:\Users\Rajesh.Muraleedharan\source\repos\blazor-redux\src\BlazorRedux.Dto\bin\Debug\netstandard2.0\BlazorRedux.Dto.pdb
-C:\Users\Rajesh.Muraleedharan\source\repos\blazor-redux\src\BlazorRedux.Dto\obj\Debug\netstandard2.0\BlazorRedux.Dto.AssemblyInfoInputs.cache
-C:\Users\Rajesh.Muraleedharan\source\repos\blazor-redux\src\BlazorRedux.Dto\obj\Debug\netstandard2.0\BlazorRedux.Dto.AssemblyInfo.cs
-C:\Users\Rajesh.Muraleedharan\source\repos\blazor-redux\src\BlazorRedux.Dto\obj\Debug\netstandard2.0\BlazorRedux.Dto.csproj.CoreCompileInputs.cache
-C:\Users\Rajesh.Muraleedharan\source\repos\blazor-redux\src\BlazorRedux.Dto\obj\Debug\netstandard2.0\BlazorRedux.Dto.dll
-C:\Users\Rajesh.Muraleedharan\source\repos\blazor-redux\src\BlazorRedux.Dto\obj\Debug\netstandard2.0\BlazorRedux.Dto.pdb
