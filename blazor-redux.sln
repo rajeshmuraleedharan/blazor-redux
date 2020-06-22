@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorRedux", "blazor-redux.web\BlazorRedux.csproj", "{EDAEAFFF-C0DC-45F3-A008-4D8C5B23F5E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorRedux", "src\blazor-redux.web\BlazorRedux.csproj", "{EDAEAFFF-C0DC-45F3-A008-4D8C5B23F5E0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorRedux.Dto", "BlazorRedux.Dto\BlazorRedux.Dto.csproj", "{4532B354-D333-49EC-8F3A-CC6622B02B1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorRedux.Dto", "src\BlazorRedux.Dto\BlazorRedux.Dto.csproj", "{4532B354-D333-49EC-8F3A-CC6622B02B1B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
