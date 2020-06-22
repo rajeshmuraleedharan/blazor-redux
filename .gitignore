@@ -5,3 +5,7 @@
 /.vs/blazor-redux
 /src/blazor-redux.fluxor/obj
 /src/BlazorRedux.Dto/obj
+/src/blazor-redux.web/bin/Release/netstandard2.1
+/src/blazor-redux.web/Properties/PublishProfiles
+/src/BlazorRedux.Dto/bin/Release/netstandard2.0
+/src/blazor-redux.web/BlazorRedux.csproj.user
